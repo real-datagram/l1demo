@@ -2,6 +2,7 @@
 Code for MFP demos &amp; related tools from the LayerOne Demo Party.
 
 LayerOne Demo Party: http://www.l1demo.org
+
 LayerOne main site: https://www.layerone.org
 
 ====================================================
@@ -9,6 +10,7 @@ LayerOne main site: https://www.layerone.org
 When's the next party?
 
 LayerOne 2019 Demo Party
+
 May 25, 2019 @ 18:00
 
 ====================================================
