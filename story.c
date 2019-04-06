@@ -81,7 +81,7 @@ void setupStory()
     // Add your scenes here, don't forget dummy between scenes for res swapping tricks!
     
     story[max_scenes++] = (struct Clip) {initExample1, drawExample1, clearScreen, doNothing, doNothing, 2000, DBUF};
-    story[max_scenes++] = (struct Clip) {initDummy, drawDummy, clearScreen, doNothing, doNothing, 1, DBUF};
+    story[max_scenes++] = (struct Clip) {initDummy, drawDummy, clearScreen, doNothing, doNothing, 2, DBUF};
     story[max_scenes++] = (struct Clip) {initExample2, drawExample2, clearScreen, doNothing, doNothing, 2000, DBUF};
 
 }
