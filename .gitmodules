@@ -1,0 +1,4 @@
+[submodule "NSL_ds30Loader"]
+	path = tools/ds30Loader
+	url = https://github.com/thedeltaflyer/L1Demo-GUI-Loader.git
+	branch = master
