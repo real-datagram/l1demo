@@ -31,47 +31,35 @@ Otherwise, we recommend using MPLAB X IDE. Please read the following instruction
 
 1. Get your code in MPLAB X IDE
 
-`Start a new project: File->New Project
-
->>> Standalone Project
-
->>> Family: 16-bit MCUs (PIC24)
-
->>> Device: PIC24FJ256DA206
-
->>> Tool (none / push Next)
-
->>> Select Compiler: XC16 (should be green) 
-
->>> Project Name: My Sweet Demo`
+* Start a new project: File->New Project
+* Standalone Project
+* Family: 16-bit MCUs (PIC24)
+* Device: PIC24FJ256DA206
+* Tool (none / push Next)
+* Select Compiler: XC16 (should be green) 
+* Project Name: My Sweet Demo
 
 
 2. Add engine source code to your project:
 
-`Right click "Source Files->Add Existing Items..."
-
->>> Add all of the .c and .h files from the MFP Engine to your project`
+* Right click "Source Files->Add Existing Items..."
+* Add all of the .c and .h files from the MFP Engine to your project
 
 
 3. Change MPLAB to only focus on main.c for compilation:
 (Feel free to set this up like a real programmer would as extra credit)
 
-`File->Project Properties
-
->>> File Inclusion/Exclusion
-
-Included files: main.c
-
-Excluded files: *all others*`
+* File->Project Properties
+* File Inclusion/Exclusion
+* Included files: main.c
+* Excluded files: *all others*
 
 
 4. Change compilation flags to accomodate engine specifics:
 
-`File->Project Properties
-
->>> xc16-gcc -> Additional options:
-
-Add: -mlarge-code -mlarge-data -menable-large-arrays -funroll-loops -O1`
+* File->Project Properties
+  * xc16-gcc -> Additional options:
+  * Add: -mlarge-code -mlarge-data -menable-large-arrays -funroll-loops -O1
 
 
 5. Compile!
