@@ -21,7 +21,7 @@ Related sites/repos:
 When's the next party?
 -----------------
 
-LayerOne 2019 Demo Party: May 25, 2019 @ 18:00
+LayerOne 2020 Demo Party: May 23, 2020 @ 18:00
 
 
 Installation
@@ -39,7 +39,7 @@ The engine is compiled with the XC16 GCC compiler by Microchip. Programming can 
 Previous Parties
 -----------------
 
-2019 Party: Coming soon!
+2019 Party: https://www.youtube.com/watch?v=Sf5sX0QKMOM
 
 2018 Party: https://www.youtube.com/watch?v=vhlIaRISzwA
 
