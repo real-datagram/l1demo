@@ -3,6 +3,9 @@ MFP LayerOne Demo Board Engine
 
 This repo is devoted to the MFP demo engine &amp; related tools for the [LayerOne Demo Party](http://www./l1demo.org).
 
+
+Where can I get a board? Boards are available on Tindie while supplies last: https://www.tindie.com/products/nullspacelabs/layerone-demoscene-board-kit/ 
+
 Major features:
 * Scene manager
 * Dynamic resolution/BPP switching
@@ -12,8 +15,8 @@ Major features:
 * Tracked Bytebeat audio
 
 Related sites/repos:
-* LayerOne Demo Party: http://www.l1demo.org
 * LayerOne Main Site: https://www.layerone.org
+* LayerOne Demo Party: http://www.l1demo.org
 * LayerOne Demo Board: https://github.com/arkorobotics/L1DemosceneBoard
 * LayerOne Demo Board GUI Bootloader: https://github.com/thedeltaflyer/L1Demo-GUI-Loader/
 
@@ -21,7 +24,7 @@ Related sites/repos:
 When's the next party?
 -----------------
 
-LayerOne 2020 Demo Party: May 23, 2020 @ 18:00
+LayerOne 2025 Demo Party: DATE TBA
 
 
 Installation
@@ -38,6 +41,10 @@ The engine is compiled with the XC16 GCC compiler by Microchip. Programming can 
 
 Previous Parties
 -----------------
+
+2024 Party: Pending!
+
+2023 Party: Pending!
 
 2019 Party: https://www.youtube.com/watch?v=Sf5sX0QKMOM
 
